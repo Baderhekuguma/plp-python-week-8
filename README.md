@@ -16,6 +16,4 @@ The program runs in a continuous menu loop, allowing users to choose from three 
 
 ## How to Run
 1. Make sure you have [Python 3](https://www.python.org/) installed on your computer.
-2. Download or clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/plp-python-week8.git
+2. Download or clone this repository to your local machine.
