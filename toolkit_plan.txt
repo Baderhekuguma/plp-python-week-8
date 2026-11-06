@@ -1,0 +1,12 @@
+Tools in my Personal Mini-Toolkit:
+1. Number Guessing Game: A game where the user tries to guess a secret number with loop hints.
+2. Simple Calculator: Adds, subtracts, multiplies, or divides two numbers.
+3. My Shopping List: A dynamic list where the user can add or view items.
+
+Menu Text:
+=== PERSONAL MINI-TOOLKIT ===
+1. Number Guessing Game
+2. Simple Calculator
+3. My Shopping List
+4. Quit
+Enter your choice (1-4):
